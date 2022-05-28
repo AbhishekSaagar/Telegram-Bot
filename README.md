@@ -1,10 +1,9 @@
-# Check4ChangeAmazonBot
+# telegram bot abhishek
 
 
 [![https://github.com/iicc1/Check4ChangeAmazonBot](https://img.shields.io/badge/Coverage-92%25-blue.svg)](https://github.com/iicc1/Check4ChangeAmazonBot)
 
-
-#####_Public source code for the Telegram bot_ [Check4ChangeAmazonBot](https://telegram.me/Check4ChangeAmazonBot)        
+     
           
 ============
 ##### Based on __Telegram-bot-bash__: https://github.com/topkecleon/telegram-bot-bash          
@@ -76,7 +75,6 @@ To use the bot by yourself, follow this instructions:
  
 ============
 
-##### If you have any troubles, contact me in [Telegram](https://telegram.me/iicc1)
 
 
 
